@@ -1,4 +1,4 @@
-const getPercents = require("../main.js");
+import { getPercents } from "../main";
 
 describe("tests for getPercents function", () => {
     it("should calculate correctly number", () => {
